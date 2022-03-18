@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **AlvinLee66/AlvinLee66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img src="https://media3.giphy.com/media/cthCxgrk0bAF4y4pFs/giphy.gif?cid=790b7611dc8aff668a4203821f1e30672004f773a6b935ee&rid=giphy.gif&ct=g">
+</p>
+🌱 I’m currently learning coding (HTML / CSS / JavaScript)
